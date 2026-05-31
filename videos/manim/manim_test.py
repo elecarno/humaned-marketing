@@ -1,13 +1,13 @@
 from manim import *
 
-class Test(Scene):
+class Mechanism2R(Scene):
     def construct(self):
-        c = Circle(2, color = RED, fill_opacity = 0.1)
+        sq = Square(
+            side_length = 5, 
+            stroke_color = GREEN, 
+            fill_color = BLUE, 
+            fill_opacity = 0.75
+        )
 
-        self.play(DrawBorderThenFill(c), run_time = 0.5)
-
-        title = Text("Manim Wahoo!", font_size=72, slant = "ITALIC").shift(UP * 0.3)
-        subtitle = Text("Basics", slant = "ITALIC").shift(DOWN * 0.5)
-        self.play(Write(title), Write(subtitle))
-
-        self.wait(3)
+        self.play(Create(sq), run_time = 3)
+        self.wait(1)

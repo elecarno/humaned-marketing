@@ -1,3 +1,5 @@
 *.psd
 *.blend1
+/videos/manim/media/
+/videos/manim/__pycache__/
 /videos/intro_to_robotics/

@@ -1,5 +1,0 @@
-# This file is used internally by FFMPEG.
-file 'file:D:/1_repos/graphics/humaned-marketing/videos/manim/media/videos/rotation_matrices_2/480p15/partial_movie_files/ScrewTo3DGrid/2108324684_548731573_968807903.mp4'
-file 'file:D:/1_repos/graphics/humaned-marketing/videos/manim/media/videos/rotation_matrices_2/480p15/partial_movie_files/ScrewTo3DGrid/459712392_3179836139_1283446727.mp4'
-file 'file:D:/1_repos/graphics/humaned-marketing/videos/manim/media/videos/rotation_matrices_2/480p15/partial_movie_files/ScrewTo3DGrid/2899815492_1881424791_2909817256.mp4'
-file 'file:D:/1_repos/graphics/humaned-marketing/videos/manim/media/videos/rotation_matrices_2/480p15/partial_movie_files/ScrewTo3DGrid/472334788_3445771655_1756503042.mp4'
